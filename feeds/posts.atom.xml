@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>research - posts</title><link href="/" rel="alternate"></link><link href="/feeds/posts.atom.xml" rel="self"></link><id>/</id><updated>1994-05-14T00:00:00-05:00</updated><entry><title>Title</title><link href="/title.html" rel="alternate"></link><published>1994-05-14T00:00:00-05:00</published><updated>1994-05-14T00:00:00-05:00</updated><author><name>ufuk</name></author><id>tag:None,1994-05-14:/title.html</id><summary type="html">&lt;h1&gt;this is the big message&lt;/h1&gt;
-&lt;p&gt;some text&lt;/p&gt;</summary><content type="html">&lt;h1&gt;this is the big message&lt;/h1&gt;
-&lt;p&gt;some text&lt;/p&gt;</content></entry></feed>
